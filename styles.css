@@ -1,0 +1,75 @@
+
+body {
+    font-family: 'Georgia', serif; 
+    color: #000000;
+    line-height: 1.6;
+    background-color: #ffffff;
+}
+
+
+.cabecera-diario {
+    text-align: center;
+    padding: 25px 0;
+    border-bottom: 2px solid #000000;
+    margin-bottom: 35px;
+}
+
+.logo {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Times New Roman', serif;
+    letter-spacing: -2px;
+}
+
+
+.contenedor-layout {
+    width: 90%;
+    max-width: 780px;
+    margin: 0 auto; 
+    padding-bottom: 50px;
+}
+
+
+.noticia-completa {
+    text-align: left; 
+}
+
+.volanta {
+    color: #004b81;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: bold;
+    margin-bottom: 8px;
+    font-family: Arial, sans-serif;
+}
+
+.titulo-nota {
+    font-size: 42px;
+    line-height: 1.1;
+    margin-bottom: 18px;
+}
+
+.bajada {
+    font-size: 23px;
+    color: #555;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 25px;
+}
+
+
+.foto-principal {
+    margin: 35px 0;
+}
+
+.foto-principal figcaption {
+    font-size: 14px;
+    color: #777;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.cuerpo-noticia p {
+    font-size: 19px;
+    margin-bottom: 22px;
+}
