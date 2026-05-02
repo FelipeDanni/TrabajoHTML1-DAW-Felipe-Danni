@@ -1,0 +1,12 @@
+
+@media screen and (max-width: 600px) {
+    .logo {
+        font-size: 35px;
+    }
+    .titulo-nota {
+        font-size: 28px;
+    }
+    .contenedor-layout {
+        width: 94%;
+    }
+}
